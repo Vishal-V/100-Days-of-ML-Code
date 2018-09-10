@@ -9,4 +9,4 @@ My daily log to track the progress on the 100 days of ML code challenge.
 **Day 2** (10-09-18)  
 - Working on the Naive Bayes mini-project to classify email
 - Tried really hard to make the python 2.7 code compatible with 3.6 and learnt about `dos2unix` and pickling of data 
-- Completed the NAive Bayes project with accuracy of 90.24% (Not good enough, so gotta improve it!)
+- Completed the Naive Bayes project with accuracy of 90.24% (Not good enough, so gotta improve it!)
