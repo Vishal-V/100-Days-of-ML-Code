@@ -15,3 +15,6 @@ pred = clf.fit(X, Y).predict(X)
 size = X.shape[0]
 value = (Y != pred).sum()
 print(f'The number of mislabeled points from {size} are: {value}')
+accuracy = 1 - ((Y != pred).sum() / len(pred))
+acc = clf.score(X,Y)
+print(f'The accuracies are {accuracy} and {acc}')
