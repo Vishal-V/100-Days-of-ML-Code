@@ -7,10 +7,11 @@ My daily log to track the progress on the 100 days of ML code challenge.
 - Working on classifying the `Stanley Terrain` dataset and graph the decision surface
 
 **Day 2** (10-09-18)  
-- Working on the Naive Bayes mini-project to classify email
-- Tried really hard to make the python 2.7 code compatible with 3.6 and learnt about `dos2unix` and pickling of data 
-- Completed the Naive Bayes project with accuracy of 90.24% (Need to improve it)
+- Working on the Naive Bayes mini-project to classify email.
+- Tried really hard to make the python 2.7 code compatible with 3.6 and learnt about `dos2unix` and pickling of data. 
+- Completed the Naive Bayes project with accuracy of 90.24% (Need to improve it!)
 
 **Day 3** (11-09-18)
-- Improved efficiency to 97.869% and completed the mini-project
-- Started learning about SVMs
+- Improved efficiency to 97.869% and completed the mini-project.
+- Started the lesson on Support Vector Machines.
+- Completed Week 1 of [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning), a course from Imperial College London on Coursera.
