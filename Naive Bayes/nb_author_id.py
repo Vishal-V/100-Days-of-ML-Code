@@ -16,12 +16,6 @@ sys.path.append("../tools/")
 from email_preprocess import preprocess
 from sklearn.naive_bayes import GaussianNB
 
-"""
-The pickle file has to be using Unix new lines otherwise at least Python 3.4's C 
-pickle parser fails with exception: pickle.UnpicklingError: the STRING opcode 
-argument must be quoted. I think that some git versions may be changing the 
-Unix new lines ('\n') to DOS lines ('\r\n').
-"""
 
 ### features_train and features_test are the features for the training
 ### and testing datasets, respectively
@@ -30,19 +24,32 @@ features_train, features_test, labels_train, labels_test = preprocess()
 
 
 #########################################################
+### your code goes here ###
 
 nb_clf = GaussianNB()
 # Training the classifier with the training data
 t = time()
-nb_clf.fit(features_train, features_test)
-print(f'Time to train : {round(time() - t, 4)}')
+nb_clf.fit(features_train, labels_train)
+print "Time to train: ", round(time() - t, 3)
 
+t1 = time()
 pred = nb_clf.predict(features_train)
+print "Time to predict: ", round(time() - t1, 3)
 
-X = features_test
-Y = labels_test
+X = features_train
+Y = labels_train
 accuracy = nb_clf.score(X,Y)
-print(f'The accuracy is: {accuracy}')
+print accuracy
+
+'''
+The answer came out to be: 
+    no. of Chris training emails:7936
+    no. of Sara training emails:7884
+    Time to train:  2.275
+    Time to predict:  3.458
+    0.9786978508217447
+    
+'''
 #########################################################
 
 
