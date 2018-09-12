@@ -47,9 +47,10 @@ print(acc)
 The answer came out to be: 
     no. of Chris training emails:7936
     no. of Sara training emails:7884
-    Time to train:  2.275
-    Time to predict:  3.458
+    Time to train:  2.004
+    Time to predict:  0.331
     0.9786978508217447
+    0.9732650739476678
     
 '''
 #########################################################
