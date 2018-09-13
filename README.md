@@ -17,5 +17,9 @@ My daily log to track the progress on the 100 days of ML code challenge.
 - Completed Week 1 of Mathematics for [Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning), a course from Imperial College London on Coursera.
 
 ### Day 4 (12-09-18) : SVM and Decision Trees
-- Completed the SVM mini-project with 99.08% accuracy using an `rbf` 
+- Completed the SVM mini-project with 99.08% accuracy using an `rbf` kernel 
 - Started the lesson on Decision Trees
+
+### Day 5 (13-09-18) : Decision Trees mini-project
+- Working on the Decision tree mini-project
+- Referred to 3Blue1Brown's [Essence of Calculus](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) playlist
