@@ -25,7 +25,7 @@ X = features_train
 Y = labels_train
 Z = features_test
 V = labels_test
-print len(X[0]) #The number of features considered
+print "no. of features:", len(X[0]) #The number of features considered
 
 ### The number of features determine the complexity of the decision tree
 ### Thus I have chosen a smaller number 379 instead of 3785 features
@@ -42,10 +42,21 @@ accuracy = accuracy_score(pred,V)
 print accuracy
 
 """
-    no. of Chris training emails:7936
+When the number of features = 3785
+    
+    no. of Chris training emails:7936 
     no. of Sara training emails:7884
+    no. of features:3785
     The time to train is:  64.327
     The time to train is:  0.041
     0.9783845278725825
+    
+When the number of features = 379
+    
+    no. of Sara training emails:7884
+    no. of features:379
+    The time to train is:  5.701
+    The time to train is:  0.004
+    0.9658703071672355
     
 """
