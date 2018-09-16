@@ -29,4 +29,8 @@ My daily log to track the progress on the 100 days of ML code challenge.
 - Learnt about the K-Nearest Neighbours classifier and implemented the same
 
 ### Day 7 (15-09-18) K-Nearest Neighbours
-- 
+- Implemented the KNN classisier after referring to [this](https://towardsdatascience.com/implementing-k-nearest-neighbors-with-scikit-learn-9e4858e231ea) Medium article
+- Watched 2 more videos from 3Blue1Brown's [Essence of Calculus](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) playlist
+- Watched Siraj Raval's [video](https://www.youtube.com/watch?v=T5pRlIbr6gg&index=1&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU) on classifiers
+
+### Day 8 (16-09-18)

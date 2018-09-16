@@ -1,23 +1,27 @@
-from sklearn import discriminant_analysis
-from sklearn import tree
-from sklearn import neighbors
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.metrics import accuracy_score
+from sklearn.model_selection import train_test_split
+from sklearn import datasets
+from time import time
 
-x = [[9,9,9], [6,8,9], [9,8,7], [6,9,7], [9,9,9], [6,8,9], [9,8,7], [6,9,7]]
-y = ['Elon Musk', 'Steve Jobs', 'Peter Thiel', 'Mark Cuban', 'Elon Musk', 'Steve Jobs', 'Peter Thiel', 'Mark Cuban']
+iris = datasets.load_iris()
+X = iris.data
+Y = iris.target
+X_train, X_test, Y_train, Y_test = train_test_split(X, Y, random_state=42)
 
-clf = tree.DecisionTreeClassifier()
-clf = clf.fit(x,y)
+clf = KNeighborsClassifier(n_neighbors=10)
+t = time()
+clf.fit(X_train, Y_train)
+print "Time to train: ", round(time() - t,3)
+t = time()
+pred = clf.predict(X_test)
+print "Time to test: ", round(time() - t,3)
+acc = accuracy_score(pred, Y_test)
+print "Accuracy: " +  str(acc)
 
-clf1 = discriminant_analysis.QuadraticDiscriminantAnalysis()
-clf1 = clf1.fit(x,y)
-
-clf2 = neighbors.KNeighborsClassifier(n_neighbors = 3)
-clf2 = clf2.fit(x,y)
-
-prediction = clf.predict([[5,2,0]])
-prediction1 = clf1.predict([[5,2,0]])
-prediction2 = clf2.predict([[5,2,0]])
-
-print(prediction)
-print(prediction1)
-print(prediction2)
+"""
+    Time to train:  0.0
+    Time to test:  0.002
+    Accuracy: 1.0
+    
+"""
