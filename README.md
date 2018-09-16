@@ -33,4 +33,7 @@ My daily log to track the progress on the 100 days of ML code challenge.
 - Watched 2 more videos from 3Blue1Brown's [Essence of Calculus](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) playlist
 - Watched Siraj Raval's [video](https://www.youtube.com/watch?v=T5pRlIbr6gg&index=1&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU) on classifiers
 
-### Day 8 (16-09-18)
+### Day 8 (16-09-18) RandomForest classifier, Datasets and Questions
+- Completed the lesson on datasets and questions to gain key inferences 
+- Completed the lesson `WEB 3.0` from Siraj Raval's [Decentralized Applications](https://www.theschool.ai/courses/decentralized-application) course
+- Implemented the RandomForest classifier and read up about adaBoost
