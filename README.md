@@ -40,4 +40,4 @@ My daily log to track the progress on the 100 days of ML code challenge.
 
 ### Day 9 (17-09-18) Linear and multivariate Regression
 - Completed the lesson on Regressions and implemented the same in the mini-project
-- Working on the lesson on outliers in datasets
+- Working on outliers in datasets
