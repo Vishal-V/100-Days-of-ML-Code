@@ -42,3 +42,5 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Completed the lesson on Regressions and implemented the same in the mini-project
 - Completed the analysis of outliers in the enron dataset and the Q&A on the analysis
 - Implemented K Means clustering on the Enron dataset
+- Completed the lesson on unsupervised learning
+- Started the lesson on feature scaling
