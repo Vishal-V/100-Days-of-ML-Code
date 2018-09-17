@@ -41,6 +41,6 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 9 (17-09-18) Linear Regression, Unsupervised Learning (K Means)
 - Completed the lesson on Regressions and implemented the same in the mini-project
 - Completed the analysis of outliers in the enron dataset and the Q&A on the analysis
+- Completed the lesson on unsupervised learning (K-Means clustering) 
 - Implemented K Means clustering on the Enron dataset
-- Completed the lesson on unsupervised learning
-- Started the lesson on feature scaling
+- Completed the lesson on feature scaling (MinMaxScaler)
