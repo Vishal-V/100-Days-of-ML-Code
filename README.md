@@ -1,5 +1,5 @@
 # 100-Days-of-ML-Code
-My daily log to track the progress on the 100 days of ML code challenge.
+My daily log to track my progress on the 100 days of ML code challenge.
 
 ### Day 1 (09-09-18) : Naive Bayes
 - Started with the [intro to machine learning](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)  course on Udacity 
@@ -35,9 +35,10 @@ My daily log to track the progress on the 100 days of ML code challenge.
 
 ### Day 8 (16-09-18) RandomForest classifier, Datasets and Questions
 - Completed the lesson on datasets and questions to gain key inferences 
-- Completed the lesson `WEB 3.0` from Siraj Raval's [Decentralized Applications](https://www.theschool.ai/courses/decentralized-application) course
+- Completed the lesson `WEB 3.0` from Siraj Raval's [Decentralized Applications](https://www.youtube.com/watch?v=aPVmd7SyKfQ) playlist
 - Implemented the RandomForest classifier and read up about adaBoost
 
-### Day 9 (17-09-18) Linear and multivariate Regression
+### Day 9 (17-09-18) Linear and Multivariate Regression, Unsupervised Learning
 - Completed the lesson on Regressions and implemented the same in the mini-project
-- Working on outliers in datasets
+- Completed the analysis of outliers in the enron dataset and the Q&A on the analysis
+- Started the lesson on Unsupervised Learning
