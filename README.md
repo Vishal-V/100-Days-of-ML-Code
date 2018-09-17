@@ -37,3 +37,7 @@ My daily log to track the progress on the 100 days of ML code challenge.
 - Completed the lesson on datasets and questions to gain key inferences 
 - Completed the lesson `WEB 3.0` from Siraj Raval's [Decentralized Applications](https://www.theschool.ai/courses/decentralized-application) course
 - Implemented the RandomForest classifier and read up about adaBoost
+
+### Day 9 (17-09-18) Linear and multivariate Regression
+- Completed the lesson on Regressions and implemented the same in the mini-project
+- Working on the lesson on outliers in datasets
