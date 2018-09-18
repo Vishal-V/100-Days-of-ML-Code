@@ -1,6 +1,5 @@
 #!/usr/bin/python
 
-from nltk.stem.snowball import SnowballStemmer
 import string
 
 def parseOutText(f):
@@ -9,6 +8,7 @@ def parseOutText(f):
         (in Part 2, you will also add stemming capabilities)
         and return a string that contains all the words
         in the email (space-separated) 
+        Note: Stem first and then use bag-of-words
         
         example use case:
         f = open("email_file_name.txt", "r")
@@ -28,15 +28,23 @@ def parseOutText(f):
         text_string = content[1].translate(string.maketrans("", ""), string.punctuation)
 
         ### project part 2: comment out the line below
-        words = text_string
+        ### words = text_string Done!!
 
         ### split the text string into individual words, stem each word,
         ### and append the stemmed word to words (make sure there's a single
         ### space between each stemmed word)
+        from nltk.stem.snowball import SnowballStemmer
+        stemmer = SnowballStemmer("english", ignore_stopwords=True)
         
-
-
-
+        temp = []
+        index = 0
+        val = text_string.split()
+        for word in val:
+            temp.insert(index, stemmer.stem(word))
+            index += 1
+            
+        for word in temp:
+            words += (word + " ")
 
     return words
 
