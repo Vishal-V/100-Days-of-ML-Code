@@ -48,4 +48,4 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 10 (18-09-18) Bag of words, stemming and TfIdf using NLTK
 - Stemming using NLTK(Natural Language Toolkit)
 - Completed the lesson on text learning
-- Working on implementing the string preprocessing techniques in the mini-project
+- Completed implementing the string processing techniques in the dataset (17578 emails)
