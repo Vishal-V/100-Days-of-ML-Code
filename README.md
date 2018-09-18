@@ -44,3 +44,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Completed the lesson on unsupervised learning (K-Means clustering) 
 - Implemented K Means clustering on the Enron dataset
 - Completed the lesson on feature scaling (MinMaxScaler)
+
+### Day 10 (18-09-18) Bag of words and NLTK
+- Stemming using NLTK(Natural Language Toolkit)
+- Started the lesson on text learning
