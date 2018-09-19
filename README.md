@@ -55,3 +55,4 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Implemented Lasso regression to understand regularization
 - Completed the lesson on dimensionality reduction
 - Working on the eigenfaces mini-project
+- Started the lesson on Validation
