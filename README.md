@@ -49,3 +49,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Stemming using NLTK(Natural Language Toolkit)
 - Completed the lesson on text learning
 - Completed implementing the string processing techniques in the dataset (17578 emails)
+
+### Day 11 (19-09-18) Feature Selection and Dimensionality Reduction(PCA)
+- Completed the lesson on feature selection
+- Implemented Lasso regression to understand regularization
+- Started the lesson on dimensionality reduction
