@@ -50,9 +50,13 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Completed the lesson on text learning
 - Completed implementing the string processing techniques in the dataset (17578 emails)
 
-### Day 11 (19-09-18) Feature Selection and Dimensionality Reduction(PCA), Validation
+### Day 11 (19-09-18) Feature Selection, Dimensionality Reduction(PCA) and Validation
 - Completed the lesson on feature selection
 - Implemented Lasso regression to understand regularization
 - Completed the lesson on dimensionality reduction
 - Working on the eigenfaces mini-project
 - Completed the lesson on Validation and its exercises
+
+### Day 12 (20-09-18) Evaluation metrics and intro to neural networks
+- Completed the lesson on evaluation metrics and its exercises
+- Started the Deeplearning.ai course [Neural Networks and Deep learning](https://www.coursera.org/learn/neural-networks-deep-learning) by Andrew NG
