@@ -60,3 +60,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 12 (20-09-18) Evaluation metrics and intro to neural networks
 - Completed the lesson on evaluation metrics and its exercises
 - Started the Deeplearning.ai course [Neural Networks and Deep learning](https://www.coursera.org/learn/neural-networks-deep-learning) by Andrew NG
+- Completed the intro to machine learning course on Udacity!!  
+![](tools/Summary.png)
+
+### Day 13 (21-09-18) Enron Fraud Detection  
+- Working on finding the persons of interest from the Enron emails dataset
