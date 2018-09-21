@@ -65,3 +65,4 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ### Day 13 (21-09-18) Enron Fraud Detection  
 - Working on finding the persons of interest from the Enron emails dataset
+- Completed Week 1 of the Neural networks and deep learning course
