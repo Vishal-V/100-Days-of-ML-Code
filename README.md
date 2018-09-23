@@ -71,5 +71,6 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Read up about Tensorflow from the documentation and medium articles
 - Watched 2 [Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ) videos to understand Tensorflow.js
 
-### Day 15 (23-09-18) 
+### Day 15 (23-09-18) Intro to deep learning
 - Implemented classifier and regressor using tensorflow and compared the same with the sklearn implementations
+- Learnt about the softmax, one-hot encoding and cross-entropy loss minimization using gradient descent
