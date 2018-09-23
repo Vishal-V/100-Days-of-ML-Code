@@ -66,3 +66,10 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 13 (21-09-18) Enron Fraud Detection  
 - Working on finding the persons of interest from the Enron emails dataset
 - Completed Week 1 of the Neural networks and deep learning course
+
+### Day 14 (22-09-18) Intro to tensorflow and tensorflow.js
+- Read up about Tensorflow from the documentation and medium articles
+- Watched 2 [Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ) videos to understand Tensorflow.js
+
+### Day 15 (23-09-18) 
+- Implemented classifier and regressor using tensorflow and compared the same with the sklearn implementations
