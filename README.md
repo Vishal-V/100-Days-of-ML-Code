@@ -74,3 +74,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 15 (23-09-18) Intro to deep learning
 - Implemented classifier and regressor using tensorflow and compared the same with the sklearn implementations
 - Learnt about the softmax, one-hot encoding and cross-entropy loss minimization using gradient descent
+
+### Day 16 (24-09-18) Data preprocessing and handling missing data
+- Learn best practices to handle missing data and effective feature selection
+- Practiced the preprocessing workflow
