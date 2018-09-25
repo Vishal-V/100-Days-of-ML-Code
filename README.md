@@ -78,3 +78,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 16 (24-09-18) Data preprocessing and handling missing data
 - Learn best practices to handle missing data and effective feature selection
 - Practiced the preprocessing workflow
+
+### Day 17 (25-09-18) Stock Predictor App
+- Built a basic stock predictor app that predicts the value of the stock and the value of the company
+- Referred to (this)[https://www.youtube.com/watch?v=SSu00IRRraY] video by Siraj Raval
