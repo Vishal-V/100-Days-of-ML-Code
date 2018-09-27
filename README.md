@@ -82,3 +82,10 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 17 (25-09-18) Stock Predictor App
 - Built a basic stock predictor app that predicts the value of the stock and the value of the company
 - Referred to (this)[https://www.youtube.com/watch?v=SSu00IRRraY] video by Siraj Raval
+
+### Day 18 (26-09-18) Data Science on the HI-SEAS dataset
+- Analyzed the Mars HI-SEAS dataset using SVM (and PCA) to unearth outliers and analyze for predictive analytics
+- Performed data wrangling and analysis using dplyr in R
+
+### Day 19 (27-09-18) Intro to deep learning
+- Started the (Intro to deep learning)[https://classroom.udacity.com/courses/ud730] course by Google Brain's principal scientist Vincent Vanhoucke
