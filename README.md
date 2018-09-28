@@ -89,3 +89,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ### Day 19 (27-09-18) Intro to deep learning
 - Started the (Intro to deep learning)[https://classroom.udacity.com/courses/ud730] course by Google Brain's principal scientist Vincent Vanhoucke
+
+### Day 20 (28-09-18) Neural network for notMNIST
+- Built a neural network with 84% accuracy for the notMNIST dataset
+- Completed lesson 1 of the course
