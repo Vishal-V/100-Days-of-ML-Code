@@ -101,3 +101,4 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 22 (30-09-18) Neural Networks and Deep Learning
 - Completed assignment 1 of week 2 
 - Implemented logistic regression using a neural network approach to classify images
+- Completed Week 2 of Andrew NG's course
