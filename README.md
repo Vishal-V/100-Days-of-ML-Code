@@ -96,3 +96,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ### Day 21 (29-09-18) Neural Networks and deep learning
 - Working on week 2 of Andrew NG's course on deep learning and neural networks
+- Implemented gradient descent from scratch
+
+### Day 22 (30-09-18) Neural Networks and Deep Learning
+- Completed assignment 1 of week 2 
