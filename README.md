@@ -109,4 +109,4 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Learnt about the advantages and differences between tensorflow.js and tensorflow
 
 ### Day 24 (2-10-18) Planar data classification using a neural network
-- Added planar classification files
+- Completed planar classification assignment
