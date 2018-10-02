@@ -110,3 +110,5 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ### Day 24 (2-10-18) Planar data classification using a neural network
 - Completed planar classification assignment
+- Completed Week 3 of Andrew NG's Neural Networks course
+- Started Week 4 of the course
