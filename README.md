@@ -102,3 +102,10 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Completed assignment 1 of week 2 
 - Implemented logistic regression using a neural network approach to classify images
 - Completed Week 2 of Andrew NG's course
+
+### Day 23 (1-10-18) Implemented gradient descent from scratch
+- Implemented gradient descent form scratch
+- Learnt more about activation functions sigmoid, tanh, ReLU and leaky ReLU
+- Learnt about the advantages and differences between tensorflow.js and tensorflow
+
+### Day 24 (2-10-18) Planar data classification using a neural network
