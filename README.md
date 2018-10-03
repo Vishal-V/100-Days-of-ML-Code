@@ -116,3 +116,4 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 25 (3-10-18) Deep neural networks
 - Completed all lecture videos of Week 4 pertaining to deep neural networks
 - Working on the programming assignments
+- Completed assignment 1
