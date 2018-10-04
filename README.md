@@ -117,3 +117,6 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Completed all lecture videos of Week 4 pertaining to deep neural networks
 - Working on the programming assignments
 - Completed assignment 1
+
+### Day 26 (4-10-18) Cat-notCat classifier from scratch
+- Working on a cat-notCat binary classifier using a deep neural net
