@@ -120,3 +120,4 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ### Day 26 (4-10-18) Cat-notCat classifier from scratch
 - Working on a cat-notCat binary classifier using a deep neural net
+- Completed Week 4 of the course and obtained the [certificate](https://www.coursera.org/account/accomplishments/verify/G7BWGP9QRM27)!

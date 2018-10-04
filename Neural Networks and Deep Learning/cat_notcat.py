@@ -315,7 +315,7 @@ parameters = two_layer_model(train_x, train_y, layers_dims = (n_x, n_h, n_y), nu
 # 
 # Now, you can use the trained parameters to classify images from the dataset. To see your predictions on the training and test sets, run the cell below.
 
-# In[ ]:
+# In[10]:
 
 predictions_train = predict(train_x, train_y, parameters)
 
@@ -328,7 +328,7 @@ predictions_train = predict(train_x, train_y, parameters)
 #     </tr>
 # </table>
 
-# In[ ]:
+# In[11]:
 
 predictions_test = predict(test_x, test_y, parameters)
 
@@ -367,13 +367,13 @@ predictions_test = predict(test_x, test_y, parameters)
 #     return parameters
 # ```
 
-# In[ ]:
+# In[12]:
 
 ### CONSTANTS ###
 layers_dims = [12288, 20, 7, 5, 1] #  4-layer model
 
 
-# In[ ]:
+# In[17]:
 
 # GRADED FUNCTION: L_layer_model
 
@@ -398,7 +398,7 @@ def L_layer_model(X, Y, layers_dims, learning_rate = 0.0075, num_iterations = 30
     
     # Parameters initialization. (≈ 1 line of code)
     ### START CODE HERE ###
-    parameters = None
+    parameters = initialize_parameters_deep(layers_dims)
     ### END CODE HERE ###
     
     # Loop (gradient descent)
@@ -406,22 +406,22 @@ def L_layer_model(X, Y, layers_dims, learning_rate = 0.0075, num_iterations = 30
 
         # Forward propagation: [LINEAR -> RELU]*(L-1) -> LINEAR -> SIGMOID.
         ### START CODE HERE ### (≈ 1 line of code)
-        AL, caches = None
+        AL, caches = L_model_forward(X, parameters)
         ### END CODE HERE ###
         
         # Compute cost.
         ### START CODE HERE ### (≈ 1 line of code)
-        cost = None
+        cost = compute_cost(AL, Y)
         ### END CODE HERE ###
     
         # Backward propagation.
         ### START CODE HERE ### (≈ 1 line of code)
-        grads = None
+        grads = L_model_backward(AL, Y, caches)
         ### END CODE HERE ###
  
         # Update parameters.
         ### START CODE HERE ### (≈ 1 line of code)
-        parameters = None
+        parameters = update_parameters(parameters, grads, learning_rate)
         ### END CODE HERE ###
                 
         # Print the cost every 100 training example
@@ -444,7 +444,7 @@ def L_layer_model(X, Y, layers_dims, learning_rate = 0.0075, num_iterations = 30
 # 
 # Run the cell below to train your model. The cost should decrease on every iteration. It may take up to 5 minutes to run 2500 iterations. Check if the "Cost after iteration 0" matches the expected output below, if not click on the square (⬛) on the upper bar of the notebook to stop the cell and try to find your error.
 
-# In[ ]:
+# In[18]:
 
 parameters = L_layer_model(train_x, train_y, layers_dims, num_iterations = 2500, print_cost = True)
 
@@ -469,7 +469,7 @@ parameters = L_layer_model(train_x, train_y, layers_dims, num_iterations = 2500,
 #     </tr>
 # </table>
 
-# In[ ]:
+# In[19]:
 
 pred_train = predict(train_x, train_y, parameters)
 
@@ -485,7 +485,7 @@ pred_train = predict(train_x, train_y, parameters)
 #     </tr>
 # </table>
 
-# In[ ]:
+# In[20]:
 
 pred_test = predict(test_x, test_y, parameters)
 
@@ -509,7 +509,7 @@ pred_test = predict(test_x, test_y, parameters)
 # 
 # First, let's take a look at some images the L-layer model labeled incorrectly. This will show a few mislabeled images. 
 
-# In[ ]:
+# In[21]:
 
 print_mislabeled_images(classes, test_x, test_y, pred_test)
 
@@ -530,7 +530,7 @@ print_mislabeled_images(classes, test_x, test_y, pred_test)
 #     3. Change your image's name in the following code
 #     4. Run the code and check if the algorithm is right (1 = cat, 0 = non-cat)!
 
-# In[ ]:
+# In[22]:
 
 ## START CODE HERE ##
 my_image = "my_image.jpg" # change this to the name of your image file 
@@ -550,3 +550,8 @@ print ("y = " + str(np.squeeze(my_predicted_image)) + ", your L-layer model pred
 # **References**:
 # 
 # - for auto-reloading external module: http://stackoverflow.com/questions/1907993/autoreload-of-modules-in-ipython
+
+# In[ ]:
+
+
+
