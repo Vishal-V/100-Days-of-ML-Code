@@ -125,3 +125,6 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 27 (5-10-18) Hyperparameter tuning and regularization
 - Learnt the math behind Frobenius norm and regularization
 - Started course 2 of Andrew NG's Deeplearning.ai specialization
+
+### Day 28 (6-10-18) Optimization and regularization
+- Completed week 1 materials and working on the optimization exercises
