@@ -130,4 +130,5 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Completed week 1 materials and working on the optimization exercises
 - Implemented l2-regularization from scratch
 - Implemented dropout (forward and back-prop) from scratch
-- Working on Gradient checking
+- Implemented Gradient checking from scratch
+- Completed Week 1 of the course
