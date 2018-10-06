@@ -128,3 +128,6 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ### Day 28 (6-10-18) Optimization and regularization
 - Completed week 1 materials and working on the optimization exercises
+- Implemented l2-regularization from scratch
+- Implemented dropout (forward and back-prop) from scratch
+- Working on Gradient checking
