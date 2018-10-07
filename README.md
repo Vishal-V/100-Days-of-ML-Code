@@ -132,3 +132,6 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Implemented dropout (forward and back-prop) from scratch
 - Implemented Gradient checking from scratch
 - Completed Week 1 of the course
+
+### Day 29 (7-10-18) mini-batch gradient descent with momentum and Adam
+- Implementing mini-batch gradient descent with momentum
