@@ -134,4 +134,5 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Completed Week 1 of the course
 
 ### Day 29 (7-10-18) mini-batch gradient descent with momentum and Adam
-- Implementing mini-batch gradient descent with momentum
+- Implemented mini-batch gradient descent with momentum
+- Implemented Adam optimization from the ICLR 2015 paper
