@@ -136,3 +136,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 29 (7-10-18) mini-batch gradient descent with momentum and Adam
 - Implemented mini-batch gradient descent with momentum
 - Implemented Adam optimization from the ICLR 2015 paper
+- Completed week 2 of the course
+
+### Day 30 (8-10-18) Batch normalization and softmax
+- Implemented batch normalization from scratch
+- Working on the SIGNS dataset to identify numbers from sign language (Using Tensorflow)
