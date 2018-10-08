@@ -141,3 +141,4 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 30 (8-10-18) Batch normalization and softmax
 - Implemented batch normalization from scratch
 - Working on the SIGNS dataset to identify numbers from sign language (Using Tensorflow)
+- Completed the course on Improving deep neural nets - (certificate)[https://www.coursera.org/account/accomplishments/verify/YN49PTQCJ3TV]
