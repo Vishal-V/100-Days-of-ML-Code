@@ -144,8 +144,15 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Completed the course on Improving deep neural nets - [certificate](https://www.coursera.org/account/accomplishments/verify/YN49PTQCJ3TV)
 
 ### Day 31 (9-10-18) Structuring ML Projects and transfer learning
+<<<<<<< HEAD
 - Completed the course on structuring machine learning projects! [Certificate](https://www.coursera.org/account/accomplishments/verify/BWWB38P66T7N)
 
-### Day 32 (10-10-18) Edge detection and convolutions
+- Completed the course on structuring machine learning projects! [Certificate](https://www.coursera.org/account/accomplishments/verify/BWWB38P66T7N)
+
+### Day 32 (10-09-18) Familiarizing myself with Tensorflow
+- Read and practiced from the Tensorflow documentation to better understand the workflow
+- Understood the importance of GPUs in Deep Learning and the `tensorflow-gpu` module
+
+### Day 33 (11-10-18) Edge detection and convolutions
 - Started Week 1 of Andrew NG's course on Convolutional Neural Networks
 - Learnt more about Tensorflow from Jordi Torres' Deep Learning book
