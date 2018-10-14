@@ -162,3 +162,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 35 (13-10-18) GDG DevFest 2018 and CNN step by step
 - Attended GDG DevFest 2018! Was a very informative event for ML/AI practitioners
 - Working on building a CNN step by step
+
+### Day 36 (14-10-18) What is AlphaGoZero and intro to RL
+- Learnt more about Google's ALphaGoZero and why it's such a big breakthrough
+- Learnt the very basics of Reinforcement Learning
