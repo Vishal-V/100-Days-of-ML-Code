@@ -166,3 +166,6 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 36 (14-10-18) What is AlphaGoZero and intro to RL
 - Learnt more about Google's ALphaGoZero and why it's such a big breakthrough
 - Learnt the very basics of Reinforcement Learning
+
+### Day 37 (15-10-18) Basics of Reinforcement Learning
+- Learnt about Basics of RL from David Silver's online course
