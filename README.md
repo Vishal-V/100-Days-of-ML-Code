@@ -149,7 +149,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ### Day 32 (10-09-18) Familiarizing myself with Tensorflow
 - Read and practiced from the Tensorflow documentation to better understand the workflow
-- Understood the importance of GPUs in Deep Learning and the `tensorflow-gpu` module
+- Understood the importance of GPUs in Deep Learning and the `tensorflow-gpu`module
 
 ### Day 33 (11-10-18) Edge detection and convolutions
 - Started Week 1 of Andrew NG's course on Convolutional Neural Networks
@@ -169,3 +169,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ### Day 37 (15-10-18) Basics of Reinforcement Learning
 - Learnt about Basics of RL from David Silver's online course
+
+### Day 38 (16-10-18)
+- Learnt about Pooling layers for CNNs and improved implementation
+- Working on Week 2 content of Andrew NG's CNNs course
