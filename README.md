@@ -170,6 +170,11 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 37 (15-10-18) Basics of Reinforcement Learning
 - Learnt about Basics of RL from David Silver's online course
 
-### Day 38 (16-10-18)
+### Day 38 (16-10-18) CNNs
 - Learnt about Pooling layers for CNNs and improved implementation
 - Working on Week 2 content of Andrew NG's CNNs course
+
+### Day 39 (17-10-18) Landing a rocket using Reinforcement Learning
+- Learning about PPOs (Proximal Policy Optimization) in RL
+- Learning about rocket launches to build an app to track space-flight schedules
+- Building and training a ConvNet in TensorFlow for a classification problem
