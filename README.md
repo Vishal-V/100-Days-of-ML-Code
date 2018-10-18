@@ -178,3 +178,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Learning about PPOs (Proximal Policy Optimization) in RL
 - Learning about rocket launches to build an app to track space-flight schedules
 - Building and training a ConvNet in TensorFlow for a classification problem
+
+### Day 40 (18-10-18) Nasa SpaceApps Preparartion
+- Spent some time preparing data from Nasa datasets for the topic "Do YOU Know When the Next Rocket Launch Is?"
+
+### Day 41 (19-10-18)
