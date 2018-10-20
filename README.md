@@ -182,4 +182,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 40 (18-10-18) Nasa SpaceApps Preparartion
 - Spent some time preparing data from Nasa datasets for the topic "Do YOU Know When the Next Rocket Launch Is?"
 
-### Day 41 (19-10-18)
+### Day 41 (19-10-18) Data preparation and pre-processing 
+- Prepared and pre-processed the data for the Nasa SapceApps competition
+
+### Day 42 (20-10-18) Nasa SpaceApps Challenge Nationals
+- Using the GLOBE dataset to predict effective sunlight cover on solar panels 
