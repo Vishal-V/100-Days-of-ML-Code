@@ -187,3 +187,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ### Day 42 (20-10-18) Nasa SpaceApps Challenge Nationals
 - Using the GLOBE dataset to predict effective sunlight cover on solar panels 
+
+### Day 43 (21-10-18) Worked on CNNs and Monte Carlo Simulations
+- Used Monte Carlo simulations and normalization to predict the conversion factor for solar panels
+- Used the conversion factor thus obtained to build a calculator to visualize the data
+- Worked on CNNs with a 'selu' activation function for better learning rate with normalization
