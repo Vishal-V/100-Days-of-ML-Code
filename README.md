@@ -192,3 +192,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Used Monte Carlo simulations and normalization to predict the conversion factor for solar panels
 - Used the conversion factor thus obtained to build a calculator to visualize the data
 - Worked on CNNs with a 'selu' activation function for better learning rate with normalization
+
+### Day 44 (22-10-18) Revised CNNs from Andrew NG's course notes
+- Revised building CNNs from scratch from Andrew NG's course notes
+
+### Day 45 (23-10-18) Artificial Intelligence
+- Studying for internal exam on the subject of Artificial Intelligence
