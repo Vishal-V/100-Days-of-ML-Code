@@ -198,3 +198,11 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ### Day 45 (23-10-18) Artificial Intelligence
 - Studying for internal exam on the subject of Artificial Intelligence
+
+### Day 46 (24-10-18) Artificial Intelligence
+- Studied for my AI exam on 25th
+- This includes pedicate logic, Bayesian statistics, Bayesian networks and partitioned semantic nets
+
+### Day 47 (25-10-18) AI exam and CNNs for roof exposure estimation
+- Gave my AI exam and probably aced it!
+- Working on training a model on a scraped data of roof pictures with given dimensions (labelled) into a CNN to estimate the solar irradiance incident on the surface
