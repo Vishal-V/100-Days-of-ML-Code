@@ -206,3 +206,21 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 47 (25-10-18) AI exam and CNNs for roof exposure estimation
 - Gave my AI exam and probably aced it!
 - Working on training a model on a scraped data of roof pictures with given dimensions (labelled) into a CNN to estimate the solar irradiance incident on the surface
+
+### Day 48 (26-10-18) Car detection using YOLOv2
+- Working on a You Only Learn Once model for car detection
+- The ML project pipeline is underway
+- Went to the Google office for a meetup called #chAI where early stage AI startups explailned the deep learning they have been doing
+- fixed all deployment bugs in the Nasa SpaceApps project and hosted the website
+
+### Day 49 (27-10-18) Learnt more about YOLO
+- Learnt more about YOLOv2 from medium articles
+- Got project guidance and tips on the Solar roof CNNs project from Vibhor Kalra from merak.ai
+- He suggested to look into tensorflow.js if browser based real-time models need to be deployed
+- Need to learn about deploying a tensorflow project
+- Learnt about tf-lite models and their merits and demerits for DL apps
+
+### Day 50 (28-10-18) Monte Carlo simulations and curve fitting in R
+- Improved the prediction model for the solar project and working on the final submission as today is the last day
+- Registered for the Microsoft AI challenge to improve Bing's suggestion box answers using DL models
+- Re-doing the plan for the next 50 days to get the most done from this challenge
