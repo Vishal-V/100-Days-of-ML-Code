@@ -224,3 +224,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Improved the prediction model for the solar project and working on the final submission as today is the last day
 - Registered for the Microsoft AI challenge to improve Bing's suggestion box answers using DL models
 - Re-doing the plan for the next 50 days to get the most done from this challenge
+
+### Day 51 (29-10-18) Sentiment classification
+- An implementation from Andrew Trask's [blog](http://iamtrask.github.io/) about sentiment classification to frame problems in deep learning
+- Completed CNN implementation from scratch
+- Still working on a feedback analysis of the progress thus far to get much more done in the second half of the challenge
