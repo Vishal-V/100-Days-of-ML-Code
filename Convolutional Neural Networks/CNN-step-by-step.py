@@ -30,7 +30,7 @@
 # - [matplotlib](http://matplotlib.org) is a library to plot graphs in Python.
 # - np.random.seed(1) is used to keep all the random function calls consistent. It will help us grade your work.
 
-# In[1]:
+# In[2]:
 
 import numpy as np
 import h5py
@@ -94,7 +94,7 @@ np.random.seed(1)
 # a = np.pad(a, ((0,0), (1,1), (0,0), (3,3), (0,0)), 'constant', constant_values = (..,..))
 # ```
 
-# In[ ]:
+# In[15]:
 
 # GRADED FUNCTION: zero_pad
 
@@ -112,13 +112,13 @@ def zero_pad(X, pad):
     """
     
     ### START CODE HERE ### (≈ 1 line)
-    X_pad = None
+    X_pad = np.pad(X, ((0, 0), (pad, pad), (pad, pad), (0, 0)), 'constant')
     ### END CODE HERE ###
     
     return X_pad
 
 
-# In[ ]:
+# In[16]:
 
 np.random.seed(1)
 x = np.random.randn(4, 3, 3, 2)
@@ -199,7 +199,7 @@ axarr[1].imshow(x_pad[0,:,:,0])
 # **Exercise**: Implement conv_single_step(). [Hint](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.sum.html).
 # 
 
-# In[ ]:
+# In[19]:
 
 # GRADED FUNCTION: conv_single_step
 
@@ -219,17 +219,17 @@ def conv_single_step(a_slice_prev, W, b):
 
     ### START CODE HERE ### (≈ 2 lines of code)
     # Element-wise product between a_slice and W. Do not add the bias yet.
-    s = None
+    s = a_slice_prev * W
     # Sum over all entries of the volume s.
-    Z = None
+    Z = np.sum(s)
     # Add bias b to Z. Cast b to a float() so that Z results in a scalar value.
-    Z = None
+    Z = Z + float(b)
     ### END CODE HERE ###
 
     return Z
 
 
-# In[ ]:
+# In[20]:
 
 np.random.seed(1)
 a_slice_prev = np.random.randn(4, 4, 3)
