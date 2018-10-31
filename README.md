@@ -229,3 +229,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - An implementation from Andrew Trask's [blog](http://iamtrask.github.io/) about sentiment classification to frame problems in deep learning
 - Completed CNN implementation from scratch
 - Still working on a feedback analysis of the progress thus far to get much more done in the second half of the challenge
+
+### Day 52 (30-10-18) Improving CNN Backpropagation
+- Studying the math behind backpropagation (for CNNs) from Ian Goodfellow's Deep Learning Textbook
+
+### Day 53 (31-10-18) CNNs course assignment
