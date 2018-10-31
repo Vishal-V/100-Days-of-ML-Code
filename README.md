@@ -234,3 +234,4 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Studying the math behind backpropagation (for CNNs) from Ian Goodfellow's Deep Learning Textbook
 
 ### Day 53 (31-10-18) Fully functioning ConvNets using Tensorflow
+- Implemented a fully functional CNN using Tensorflow
