@@ -235,3 +235,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ### Day 53 (31-10-18) Fully functioning ConvNets using Tensorflow
 - Implemented a fully functional CNN using Tensorflow
+- Improved the friend dashboard project 
+- ALso created a Genomic and AI related github organization for related projects
+
+### Day 54 (1-11-18) GenomicAI's website and revising data science in R from Rafael's Textbook
+- Working on GenomicAI's website. Looking to finish it up after Monday's exam
+- Revising data science in R from Harvard Prof Rafael's textbook
