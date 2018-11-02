@@ -241,3 +241,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 54 (1-11-18) GenomicAI's website and revising data science in R from Rafael's Textbook
 - Working on GenomicAI's website. Looking to finish it up after Monday's exam
 - Revising data science in R from Harvard Prof Rafael's textbook
+
+### Day 55 (2-11-18) GCP's How Google does ML 
+- Completed half the course by Google Cloud Platform on 'How Google does ML'
+- Working on the paper on 'Genomic analysis for persoanlized medicine'
