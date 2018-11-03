@@ -249,5 +249,6 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 56 (3-11-18) GCP Datalab for ML intances
 - Earthquakes project using a datalab instance [Link](https://storage.googleapis.com/usgs-ingest-transform/earthquakes/earthquakes.htm)
 - [Project Link](https://github.com/Vishal-V/GCP-Datalab-ML)
-![](tools/Screenshot (91).png)
+![](https://github.com/Vishal-V/100-Days-of-ML-Code/blob/master/tools/Screenshot%20(91).png)
 - The Common pitfalls in ML deployment. Gosh it has much more to do with stuff other than ML!
+- Completed Google Cloud's first course 'How Google does ML' [Link](https://www.coursera.org/account/accomplishments/verify/DHNACL3R5M4T)
