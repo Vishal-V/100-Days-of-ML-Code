@@ -245,3 +245,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 55 (2-11-18) GCP's How Google does ML 
 - Completed half the course by Google Cloud Platform on 'How Google does ML'
 - Working on the paper on 'Genomic analysis for persoanlized medicine'
+
+### Day 56 (3-11-18) GCP Datalab for ML intances
+- Earthquakes project using a datalab instance [Link](https://storage.googleapis.com/usgs-ingest-transform/earthquakes/earthquakes.htm)
+- [Project Link](https://github.com/Vishal-V/GCP-Datalab-ML)
+![](tools/Screenshot (91).png)
+- The Common pitfalls in ML deployment. Gosh it has much more to do with stuff other than ML!
