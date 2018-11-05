@@ -256,3 +256,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 57 (4-11-18) Launching into ML on GCP
 - Started learning the procedure to prepare and pre-process datasets to bucket in cloud instances
 - Working on GenomicAI's about page
+
+### Day 58 (5-11-18) (Still!)Launching into ML on GCP
+- Made UI improvements to the Social Network 
+- Learnt more about operationalizing ML models for production using the Google Cloud Platform
