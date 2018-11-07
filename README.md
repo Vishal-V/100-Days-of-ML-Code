@@ -260,3 +260,11 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 58 (5-11-18) (Still!)Launching into ML on GCP
 - Made UI improvements to the Social Network 
 - Learnt more about operationalizing ML models for production using the Google Cloud Platform
+
+### Day 59 (6-11-18) Completed Launching into ML 
+- Awaiting the scholarship confirmation. I just about finished the content in the course from Coursera
+- Working on the site page for GenomicsAI
+
+### Day 60 (7-11-18) Comparing AWS and GCP
+- Exploring AWS ML APIs as compared to GCP's ML APIs
+- Buying parts for my Deep Learning rig. Got a GTX 1080 and an 8Th gen Intel i7 processor. Need to save up and buy the rest of the parts!
