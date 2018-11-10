@@ -268,3 +268,10 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 60 (7-11-18) Comparing AWS and GCP
 - Exploring AWS ML APIs as compared to GCP's ML APIs
 - Buying parts for my Deep Learning rig. Got a GTX 1080 and an 8Th gen Intel i7 processor. Need to save up and buy the rest of the parts!
+
+### Day 61 (8-11-18) 
+
+### Day 62 (9-11-18)
+
+### Day 63 (10-11-18) Started the PyTorch Challenge 
+- Working on lesson 1 of the content to build a neural network using PyTorch
