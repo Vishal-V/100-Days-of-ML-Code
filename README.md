@@ -269,9 +269,14 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Exploring AWS ML APIs as compared to GCP's ML APIs
 - Buying parts for my Deep Learning rig. Got a GTX 1080 and an 8Th gen Intel i7 processor. Need to save up and buy the rest of the parts!
 
-### Day 61 (8-11-18) 
+### Day 61 (8-11-18) Learning up about building a recommendation engine
+- Made some progress on Google's GCP challenge on specializing in ML by 30th November
+- Learnt about some of the methods to build and operationalize a recommendation engine
 
-### Day 62 (9-11-18)
+### Day 62 (9-11-18) Working on a recommendation engine for the social network
+- Working on the prototype for a recommendation engine for user's feed in a social network I am building
+- The social network is built on a PostgreSQL database with a flask business logic. Check out my profile for details
 
 ### Day 63 (10-11-18) Started the PyTorch Challenge 
 - Working on lesson 1 of the content to build a neural network using PyTorch
+- Made significant headway in the Social Network project
