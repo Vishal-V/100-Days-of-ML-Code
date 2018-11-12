@@ -280,3 +280,10 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 63 (10-11-18) Started the PyTorch Challenge 
 - Working on lesson 1 of the content to build a neural network using PyTorch
 - Made significant headway in the Social Network project
+
+### Day 64 (11-11-18) Learnt more about using PyTorch for DL
+- Continued the Udacity course on PyTorch 
+
+### Day 65 (12-11-18) Started the Move 37 course
+- Started Siraj Raval's Move 37 course for Reinforcement Learning
+- Working on the social networking application for my DBMS project. Looking for ideas to include ML concepts in it
