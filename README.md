@@ -287,3 +287,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 65 (12-11-18) Started the Move 37 course
 - Started Siraj Raval's Move 37 course for Reinforcement Learning
 - Working on the social networking application for my DBMS project. Looking for ideas to include ML concepts in it
+
+### Day 66 (13-11-18) Completed Lesson 1 in the PyTorch Challenge
+- Completed lesson 1 in the PyTorch challenge
+- Learnt about the Bellman equation in Reinforcement Learning (Move 37)
