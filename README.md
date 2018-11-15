@@ -291,3 +291,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 66 (13-11-18) Completed Lesson 1 in the PyTorch Challenge
 - Completed lesson 1 in the PyTorch challenge
 - Learnt about the Bellman equation in Reinforcement Learning (Move 37)
+
+### Day 67 (14-11-18) PyTorch Challenge
+- Fixed performance bugs in the 'Social Network' project I have to submit soon
+- Working on the PyTorch challenge
+
+### Day 68 (15-11-18) 
