@@ -294,6 +294,17 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ### Day 67 (14-11-18) PyTorch Challenge
 - Fixed performance bugs in the 'Social Network' project I have to submit soon
-- Working on the PyTorch challenge
+- Working on the PyTorch challenge lesson 2
 
-### Day 68 (15-11-18) 
+### Day 68 (15-11-18) CUDA programming using PyTorch
+- Learnt about CUDA programming to utilize a GPU to its max
+- Learnt about TFlite models for deep learning on a smartphone
+
+### Day 69 (16-11-18) Google Cloud : Machine Learning and BigQuery
+- Learnt about the basics of using Google Cloud along with BigQuery datasets and ML
+- Worked on learning about TFX to build end to end Deep Learning models
+- Completed the minimum viable project for DBMS lab!
+
+### Day 70 (17-11-18) Completed lesson 3 of PyTorch Challenge
+- Completed lesson 3 of the PyTorch challenge
+- Working on the DNNs with PyTorch lesson
