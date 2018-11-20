@@ -293,7 +293,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Learnt about the Bellman equation in Reinforcement Learning (Move 37)
 
 ### Day 67 (14-11-18) PyTorch Challenge
-- Fixed performance bugs in the 'Social Network' project I have to submit soon
+- Fixed performance bugs in the 'Social Network' project (which I have to submit soon)
 - Working on the PyTorch challenge lesson 2
 
 ### Day 68 (15-11-18) CUDA programming using PyTorch
@@ -308,3 +308,16 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 70 (17-11-18) Completed lesson 3 of PyTorch Challenge
 - Completed lesson 3 of the PyTorch challenge
 - Working on the DNNs with PyTorch lesson
+
+### Day 71 (18-11-18) Learnt more about PyTorch and Tensorflow workflows
+- Imperative programming in PyTorch and the dynamic front end is more suited for research implementations
+- Learnt more about deploying models as low level C++ and the production-ready Tensorflow workflow
+
+### Day 72 (19-11-18) Learnt the Keras workflow for RESNET-50 Implementation
+- Read about classic CNN architectures like AlexNet, Lenet-5, VGG-16 and Microsoft Research's Resnet
+- Learnt the Keras workflow to implement Resnet
+- Learnt more about Skip connections with Convolutional as well as ID blocks
+
+### Day 73 (20-11-18) Working on object detection for cars
+- Completed the Resnet implementation
+- Working on car/object detection
