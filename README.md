@@ -321,3 +321,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 73 (20-11-18) Working on object detection for cars
 - Completed the Resnet implementation
 - Working on car/object detection
+
+### Day 74 (21-11-18) Finished the YOLOv2 implementation
+
+### Day 75 (22-11-18) Working on Faster CNNs implementation
