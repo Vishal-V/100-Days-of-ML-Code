@@ -325,3 +325,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 74 (21-11-18) Finished the YOLOv2 implementation
 
 ### Day 75 (22-11-18) Working on Faster CNNs implementation
+
+### Day 76 (23-11-18) O'Reilly Tensorflow for Deep Learning
+
+### Day 77 (24-11-18) Working on Face Recognition
+- Working on Siamese Networks for learning Similarity functions
+- Improving Happy House with Face recognition
