@@ -323,6 +323,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Working on car/object detection
 
 ### Day 74 (21-11-18) Finished the YOLOv2 implementation
+- Part of the YOLO paper released on June 12th 2015 but without the K-Means clustering for drawing the bounding boxes
+- Learnt about implementing non-max suppression and IoU for filtering probabilistic results
 
 ### Day 75 (22-11-18) Working on Faster CNNs implementation
 
@@ -331,3 +333,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 77 (24-11-18) Working on Face Recognition
 - Working on Siamese Networks for learning Similarity functions
 - Improving Happy House with Face recognition
+
+### Day 78 (25-11-18) Working on the PyTorch lesson 4
+- Working on Udacity's Lesson 4 of the PyTorch challenge
+- Got the O'Reilly Data Science book in R with the Tidyverse
+- Working on the problem statement for Hackference Hackathon 
