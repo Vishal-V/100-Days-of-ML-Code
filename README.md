@@ -327,8 +327,14 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Learnt about implementing non-max suppression and IoU for filtering probabilistic results
 
 ### Day 75 (22-11-18) Working on Faster CNNs implementation
+- Despite Yolo being a good solution, tried to implement Fast CNNs and Faster CNNs from scratch in Tensorflow
+- Poor results on this. It is more or less guessing the solution despite using Adam optimization
+- YOLO with K-Means clustering seems like a better option. Will look into it soon
 
 ### Day 76 (23-11-18) O'Reilly Tensorflow for Deep Learning
+- Learnt about the Computation graph and how paralellizing TF clusters improves performance
+- Ordered parts for my Deep Learning PC!
+- Have an i7-8700, an NVIDIA GTX 1080 and the MSI A-Pro Z370 motherboard so far!
 
 ### Day 77 (24-11-18) Working on Face Recognition
 - Working on Siamese Networks for learning Similarity functions
@@ -338,3 +344,28 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Working on Udacity's Lesson 4 of the PyTorch challenge
 - Got the O'Reilly Data Science book in R with the Tidyverse
 - Working on the problem statement for Hackference Hackathon 
+
+### Day 79 (26-11-18) O'Reilly Tensorflow Models
+- Work on the Hackference hack cancelled as the deadline for documentation submission passed hours before we submitted our proposal!
+- Learnt more about GPU and CUDA programming for Deep Learning
+- Completed 2 chapters of the O'Reilly Deep Learning with Tensorflow book. It is a fantastic book to read!
+
+### Day 80 (27-11-18) Pandas and Matplotlib for Data Science in Python
+- Watched a few videos by SentDex on Youtube for a hands-on refresher in Pandas and Matplotlib 
+- Preparing for data science internships and thus reviewed Sampling theory and some sample interview questions
+- Learnt more about the Tidyverse in R and how statisticians build their workflow in it
+- The initial steps include: Exploratory Data Analysis(EDA) with ggplot2, Wrangling with tidyr, dplyr and programming with magrittr and purr
+
+### Day 81 (28-11-18) Deep Learning in insurance
+- Had to spend time on exam preparation, but managed to review data science material in R
+- Revised notes from a previous Harvard Data Science in Genomics course that I had audited in Feb
+
+### Day 82 (29-11-18) Papers papers everywhere!
+- Spent time on reading papers in Computer Vision to further deepen my understanding of CNNs
+- Read about CNN architectures in depth 
+- Ran the numbers and did some research for the Acko insurance hackathon proposal
+
+### Day 83 (30-11-18) Neural Style Transfer paper
+- Spent time reviewing Deep Dream and Neural Style transfer with Gatys et al and their paper
+- Worked on the documentation for the Acko Hack proposal of insurance premium predictions for self-driving car adoption
+- Made plans for the home stretch of the challenge with lots of cool stuff planned for the 18 days to come and more!
