@@ -369,3 +369,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Spent time reviewing Deep Dream and Neural Style transfer with Gatys et al and their paper
 - Worked on the documentation for the Acko Hack proposal of insurance premium predictions for self-driving car adoption
 - Made plans for the home stretch of the challenge with lots of cool stuff planned for the 18 days to come and more!
+
+### Day 84 (1-12-18) Worked on CNNs Assignment and my own implementation of the paper
+- Worked on the neural style transfer assignment 
+- Read up more and worked on the implementation of the Neural Style Transfer paper from scratch
+
+### Day 85 (2-12-18) Completed the course on CNNs
