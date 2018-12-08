@@ -375,3 +375,26 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Read up more and worked on the implementation of the Neural Style Transfer paper from scratch
 
 ### Day 85 (2-12-18) Completed the course on CNNs
+- Completed the course on CNNs as part of the Deep Learning Specialization [Certificate](https://www.coursera.org/account/accomplishments/certificate/JT8LN5YPY4GX)
+- 
+
+### Day 86 (3-12-18) Hierarchical Clustering
+- Spent learning about the different clustering techniques apart from K-Means to solve the question for an internship interview
+- Learnt about the end-to-end data science pipeline
+
+### Day 87 (4-12-18)
+
+### Day 88 (5-12-18)
+
+### Day 89 (6-12-18) Papers papers everywhere 2!
+- Spent a whole lot of time going through different papers handpicked from Arxiv and Arxiv sanity
+- Topics and papers include CycleGan (Didn't really get it!), DeepFace, FaceNet..etc
+
+### Day 90 (7-12-18) Google Cloud Developers Meetup 
+- Started the Sequence Models course by Andrew NG
+- Attended the Google Cloud Meetup which covered topics including using Kibana, elasticsearch and Cloud ML API
+
+### Day 91 (8-12-18) GDG AI Meetup - Hands-on session on NLP
+- Attended the GDG AI Meetup at Altimetrik
+- Worked on the colab notebook pertaining to building a top class sentiment analyser using Spacy and Altair
+- NLP with Spacy which is an industry grade NLP library along with NLTK
