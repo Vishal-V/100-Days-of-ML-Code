@@ -376,15 +376,14 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ### Day 85 (2-12-18) Completed the course on CNNs
 - Completed the course on CNNs as part of the Deep Learning Specialization [Certificate](https://www.coursera.org/account/accomplishments/certificate/JT8LN5YPY4GX)
-- 
 
 ### Day 86 (3-12-18) Hierarchical Clustering
 - Spent learning about the different clustering techniques apart from K-Means to solve the question for an internship interview
 - Learnt about the end-to-end data science pipeline
 
-### Day 87 (4-12-18)
+### Day 87
 
-### Day 88 (5-12-18)
+### Day 88
 
 ### Day 89 (6-12-18) Papers papers everywhere 2!
 - Spent a whole lot of time going through different papers handpicked from Arxiv and Arxiv sanity
@@ -398,3 +397,5 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Attended the GDG AI Meetup at Altimetrik
 - Worked on the colab notebook pertaining to building a top class sentiment analyser using Spacy and Altair
 - NLP with Spacy which is an industry grade NLP library along with NLTK
+
+### Day 92 (9-12-18) Time Series with GCP
