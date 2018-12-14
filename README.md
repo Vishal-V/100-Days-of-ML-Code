@@ -381,21 +381,35 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Spent learning about the different clustering techniques apart from K-Means to solve the question for an internship interview
 - Learnt about the end-to-end data science pipeline
 
-### Day 87
-
-### Day 88
-
-### Day 89 (6-12-18) Papers papers everywhere 2!
+### Day 87 (6-12-18) Papers papers everywhere 2!
 - Spent a whole lot of time going through different papers handpicked from Arxiv and Arxiv sanity
 - Topics and papers include CycleGan (Didn't really get it!), DeepFace, FaceNet..etc
 
-### Day 90 (7-12-18) Google Cloud Developers Meetup 
+### Day 88 (7-12-18) Google Cloud Developers Meetup 
 - Started the Sequence Models course by Andrew NG
 - Attended the Google Cloud Meetup which covered topics including using Kibana, elasticsearch and Cloud ML API
 
-### Day 91 (8-12-18) GDG AI Meetup - Hands-on session on NLP
+### Day 89 (8-12-18) GDG AI Meetup - Hands-on session on NLP
 - Attended the GDG AI Meetup at Altimetrik
 - Worked on the colab notebook pertaining to building a top class sentiment analyser using Spacy and Altair
 - NLP with Spacy which is an industry grade NLP library along with NLTK
 
-### Day 92 (9-12-18) Time Series with GCP
+### Day 90 (9-12-18) Time Series with GCP
+
+### Day 91 (10-12-18)
+
+### Day 92 (11-12-18)
+
+### Day 93 (12-11-18) Breast Cancer Classification
+- Using the UCI FNA (Fine Needle Aspiartion) dataset to classify tumours
+- Worked on implementing the entire Machine learning pipeline from data preprocessing to model validation
+- Used pandas for data pre-processing, seaborn for exploratory data analysis and used a SVM
+
+### Day 94 (13-12-18) Acko Insurance Hackathon Project: Phase 1
+- Working on 3 Kaggle datasets to predict insurance claims in various categories
+- Used the AllClaims Insurance dataset to precict the insurance claims in Auto and Life insurance industries
+- Working on a chat application for better customer retention
+
+### Day 95 (14-12-18) Acko Insurance Hackathon Project: Phase 2
+- Working on the Acko insurance project submission
+- All set for the hackathon tomorrow!
