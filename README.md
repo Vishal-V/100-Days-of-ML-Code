@@ -395,10 +395,16 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - NLP with Spacy which is an industry grade NLP library along with NLTK
 
 ### Day 90 (9-12-18) Time Series with GCP
+- Worked on time series analysis with Google cloud codelab
+- GPU accelarated sessions with PyTorch support (CUDA backed)
 
-### Day 91 (10-12-18)
+### Day 91 (10-12-18) O'Reilly From Scratch Challenge
+- Worked on O'Reilly's Tensorflow from scratch challenge form the E-Mail newsletter
+- Also had my DBMS lab exam today. Did great by the way!
 
-### Day 92 (11-12-18)
+### Day 92 (11-12-18) RNNs and GRUs
+- Worked on implementing RNNs and GRUs from scratch
+- Understood the efficiency tradeoffs of GRUs while working on it
 
 ### Day 93 (12-11-18) Breast Cancer Classification
 - Using the UCI FNA (Fine Needle Aspiartion) dataset to classify tumours
@@ -412,4 +418,35 @@ Daily log to track my progress on the 100 days of ML code challenge.
 
 ### Day 95 (14-12-18) Acko Insurance Hackathon Project: Phase 2
 - Working on the Acko insurance project submission
+- Learnt about lstms and seq2seq word embeddings to build a chatbot
 - All set for the hackathon tomorrow!
+
+### Day 96 (15-12-18) Sequence Models
+- Completed Week 1 of Andrew NG's Sequence Models course
+- Working on the Jazz production with lstms problem statement
+- Successfully submitted the Acko Hackathon solution (We didn't get shorlisted :( )
+
+### Day 97 (17-12-18) Working on my research paper
+- Resumed work on my Genomics Research paper
+- Learnt about Python galaxy for DNA Sequencing
+- Spent time learning about Stanford's clusters for gene sequencing and their enormous budgets!
+
+### Day 98 (18-12-18) Built my Deep Learning Rig!
+![](tools/before.jpg)
+![](tools/setup.jpg)
+
+### Day 99 (21-12-18) ARIMA models for Time series analysis
+- Autoregressive Integrated Moving Average models are perfect for time series prediction
+- Used it on data that includes a seasonal temporal shift. The data was non-stationary and had trends in the distribution and thus had to be integrated wth the differences as used in Box-Jenkins approach
+- Walk-forward validation is extremely accurate as it provides every iteration with all the available data. This is computationally intensive and hence can used only for small datasets. 
+
+### Day 100 (22-12-18) Memory Networks for single supporting fact problems
+- Learnt about memory networks and applied it on the bAbI dataset 
+- Memory networks can also be used to make chatbots as they have more information gain than lstms with seq2seq embeddings
+- Worked on the Reddit dataset to build a general purpose dataset
+
+### Day 101-105 (23-12-18 - 26-12-18) Genomics for personalised medicine Whitepaper
+- Private repo for now. Will make it public soon!
+
+## Challenge Complete!
+- It has been a wonderful learning curve and am looking forward to do another one post my exams!
